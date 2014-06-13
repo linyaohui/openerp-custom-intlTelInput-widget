@@ -38,7 +38,7 @@
     'installable': True,
     'auto_install': False,
     'application': True,
-     'images': [
+    'images': [
         'images/int.jpg',
         
     ],
