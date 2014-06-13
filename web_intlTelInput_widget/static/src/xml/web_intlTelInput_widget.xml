@@ -1,0 +1,5 @@
+<template>
+    <t t-name="intlTelInput">
+        <input type="tel" class='mobile-number'></input>
+     </t>
+</template>
